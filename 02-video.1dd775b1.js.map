@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/02-video.js"],"names":["refs","ourvideo","document","querySelector"],"mappings":";AAAA,MAAMA,EAAO,CACXC,SAAUC,SAASC,cAAc","file":"02-video.1dd775b1.js","sourceRoot":"../src","sourcesContent":["const refs = {\n  ourvideo: document.querySelector('#vimeo-player'),\n};\n"]}
