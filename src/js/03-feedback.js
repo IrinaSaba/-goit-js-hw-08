@@ -33,7 +33,6 @@ function updateForm() {
     //   console.log(UserSorage);
     refs.message.value = UserStorage.message;
     refs.email.value = UserStorage.email;
-    return;
   }
   refs.message.value = '';
   refs.email.value = '';
